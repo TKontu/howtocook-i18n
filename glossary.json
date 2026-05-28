@@ -1,0 +1,44 @@
+{
+  "_comment": "Two parts. 'boilerplate' = exact strings replaced deterministically (never sent to the LLM, guarantees consistency). 'terms' = culinary glossary injected into every prompt so wording stays consistent across all 364 files. Extend freely.",
+
+  "boilerplate": {
+    "## 必备原料和工具": "## Required Ingredients and Tools",
+    "## 计算": "## Portions",
+    "## 操作": "## Steps",
+    "## 附加内容": "## Additional Notes",
+    "预估烹饪难度：": "Estimated difficulty: ",
+    "预估卡路里：": "Estimated calories: ",
+    "大卡": "kcal",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。": "If you follow this guide and find any problems or steps that could be improved, please open an Issue or Pull Request."
+  },
+
+  "terms": {
+    "焯水": "blanch",
+    "爆炒": "stir-fry over high heat",
+    "收汁": "reduce the sauce",
+    "上浆": "coat in starch slurry",
+    "挂糊": "coat in batter",
+    "焖": "braise",
+    "炖": "stew",
+    "蒸": "steam",
+    "凉拌": "dress cold",
+    "腌制": "marinate",
+    "生抽": "light soy sauce",
+    "老抽": "dark soy sauce",
+    "料酒": "Shaoxing cooking wine",
+    "蚝油": "oyster sauce",
+    "豆瓣酱": "doubanjiang (chili bean paste)",
+    "生姜": "fresh ginger",
+    "小葱": "scallion",
+    "葱结": "knotted scallion",
+    "白糖": "white sugar",
+    "食用盐": "salt",
+    "鸡翅中": "chicken wing mid-joints",
+    "适量": "to taste",
+    "少许": "a pinch",
+    "克": "g",
+    "毫升": "ml",
+    "斤": "jin (500 g)",
+    "两": "liang (50 g)"
+  }
+}

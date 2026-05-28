@@ -1,0 +1,25 @@
+# Generated pipeline state (machine-specific: file paths + hashes, regenerated on run)
+manifest.json
+
+# Translated output belongs in the CONTENT FORK, never in the toolkit repo
+*.en.md
+
+# Never commit the cloned content repo into the toolkit repo
+HowToCook/
+HowToCook-en/
+
+# Glossary review/working artifacts (the curated glossary.json IS committed)
+glossary_candidates.*
+*.draft.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
